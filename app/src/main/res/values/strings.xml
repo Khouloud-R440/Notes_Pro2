@@ -8,4 +8,8 @@
     <string name="account">Already have an account?</string>
     <string name="ConfirmPassword">ConfirmPassword</string>
     <string name="noaccount">Do not have an account?</string>
+    <string name="addnote">Add New Note</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+
 </resources>
