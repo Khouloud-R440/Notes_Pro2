@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NotesPro" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/dark</item>
+        <item name="colorPrimaryVariant">@color/dark</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <item name="colorSecondary">@color/lavender</item>
+        <item name="colorSecondaryVariant">@color/lavender</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+
+    </style>
+
+
+    <style name="Theme.NotesPro" parent="Base.Theme.NotesPro" />
+</resources>

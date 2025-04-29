@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notes Pro</string>
+    <string name="login">Login</string>
+    <string name="SignUp">SignUp</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="hello">Hello!</string>
+    <string name="account">Already have an account?</string>
+    <string name="ConfirmPassword">ConfirmPassword</string>
+    <string name="noaccount">Do not have an account?</string>
+</resources>

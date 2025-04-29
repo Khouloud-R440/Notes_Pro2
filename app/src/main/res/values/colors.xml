@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightGray">#D9D7D7</color>
+    <color name="sandPink">#C8A5A5</color>
+    <color name="darkGray">#787878</color>
+    <color name="softBlack">#2E2E2E</color>
+    <color name="softPink">#C2A9A5</color>
+    <color name="mediumGray">#A69C9C</color>
+    <color name="lavender">#A9B196A9</color>
+    <color name="light">#E0CFE3</color>
+    <color name="dark">#8D5D9C</color>
+
+    <color name="color_white_blue">#FBFBFD</color>
+    <color name="color_white_gray">#FAFAFC</color>
+    <color name="color_light_gray">#FBFBFC</color>
+    <color name="color_grayish_white">#FAFAFB</color>
+    <color name="color_lightest_gray">#FAFAFA</color>
+    <color name="color_blue_white">#FCFCFE</color>
+    <color name="color_pale_purple">#FBFAFD</color>
+    <color name="color_soft_lavender">#A9B196A9</color>
+    <color name="color_gray_purple">#FCFBFD</color>
+    <color name="color_grayish_purple">#FBFAFC</color>
+    <color name="colorPrimaryDark">#000000</color>
+</resources>
